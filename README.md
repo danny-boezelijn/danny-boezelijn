@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danny-boezelijn
-- 👀 I’m interested in .NET development
-- 🌱 I’m currently learning ASP.NET Core MVC
+- 👀 I’m am doing .NET development in C#
+- 🌱 I’m currently working with ASP.NET Core MVC & EFCore
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ... that is the question isn't it?
 
